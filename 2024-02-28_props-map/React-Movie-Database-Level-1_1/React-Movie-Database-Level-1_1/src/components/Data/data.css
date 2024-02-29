@@ -1,0 +1,11 @@
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  gap: 2vw;
+}
+
+.grid div {
+  background-color: rgb(40, 38, 38);
+  color: white;
+  padding: 2vw;
+}
