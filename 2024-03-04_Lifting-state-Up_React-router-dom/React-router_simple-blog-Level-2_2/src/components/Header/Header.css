@@ -1,0 +1,10 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1vw 5vw;
+}
+
+nav a {
+  margin-right: 2vw;
+  color: black;
+}
